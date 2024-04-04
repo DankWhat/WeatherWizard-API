@@ -36,3 +36,20 @@ A simple Python script that integrates with a weather API to provide real-time w
 
 ```bash
 python weather.py 10001
+```
+
+## Output:
+
+```diff
+Weather for New York, US (10001):
+- Temperature: 25°C
+- Feels Like: 22.1°C
+- Humidity: 50%
+- Wind Speed: 5.7 m/s
+- Description: Clear sky
+```
+## Contributing
+Contributions are welcome! Feel free to submit issues or pull requests for any improvements or feature additions.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
