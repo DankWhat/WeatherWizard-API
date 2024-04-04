@@ -9,7 +9,7 @@ A simple Python script that integrates with a weather API to provide real-time w
 2. **Set Up Environment**: Clone the repository and navigate to the directory:
 
     ```bash
-    git clone https://github.com/yourusername/weather-api.git
+    git clone https://github.com/DankWhat/weather-api.git
     cd weather-api
     ```
 
